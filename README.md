@@ -1,7 +1,7 @@
 # Birdinsubstation_detection
 detect bird in substation
 
-##Test1
+## Test1
 - https://www.kaggle.com/datasets/gpiosenka/birdies/code
 - ใช้ Dataset: datasets/gpiosenka/100-bird-species. 
 - Model มี pre-train ให้ bird box model-1-(224 X 224).h5 (downloaded)
@@ -9,20 +9,20 @@ detect bird in substation
 - Ref: https://www.kaggle.com/datasets/gpiosenka/birdies/code
 - ขาดวิธีการนำ pre-train มาใช้งาน
 
-##Test2
+## Test2
 - https://paperswithcode.com/dataset/sod4sb
 - https://github.com/elsa-lab/MVATeam1
 - https://colab.research.google.com/drive/1r4OSK4iHrNUv0aQQLGATBNdhHRUxfpcL?usp=sharing
 - https://paperswithcode.com/paper/ensemble-fusion-for-small-object-detection#code
 
-##Test3
+## Test3
 - https://github.com/praneth123/Bird-Detection/tree/main
 - https://github.com/ultralytics/ultralytics (download .pt file)
 - https://docs.ultralytics.com/usage/python/#val
 - https://colab.research.google.com/drive/1QYTQKK8WtZW-r6yldYAzIWIh-QBECJs1?usp=sharing
 
 		
-##Summary
+## Summary
 - OpenImagesV7 แย่กว่า COCO
 - https://github.com/ultralytics/ultralytics/issues/3155 -> ให้ความเห็นดี
 - https://www.youtube.com/watch?v=LNwODJXcvt4 -> Train ด้วย custom data
@@ -48,7 +48,7 @@ detect bird in substation
 - https://medium.com/@amritangshu.mukherjee/multi-class-wildlife-classification-using-yolov5-yolo-v7-and-detectron2-faster-rcnn-b8423ffdbf6b 
 - https://github.com/domingomery/visioncolab -> colab ที่เป็นประโยชน์
 
-##Dataset
+## Dataset
 - https://dl.allaboutbirds.org/nabirds
 - https://snd.se/en/catalogue/dataset/2021-316-1/1#dataset
 - https://universe.roboflow.com/models/object-detection
@@ -56,7 +56,7 @@ detect bird in substation
 - https://universe.roboflow.com/search?q=class%3Abird
 - https://universe.roboflow.com/ryu-myoungwoo/bird-detection-zqcdr/dataset/5
 
-##Google drive
+## Google drive
 - https://github.com/Sydney-Informatics-Hub/marsupial
 		https://drive.google.com/drive/folders/1wFdCxSuAUvRklrc-31YEm8kSOmBzVmLI?usp=drive_link
 
